@@ -1,0 +1,131 @@
+
+  {
+    "en": {
+      "properties": [
+        {
+          "title": "Studio Oasis in Bustling Downtown",
+          "price": "500000",
+          "location": "Chicago, USA"
+        },
+        {
+          "title": "Beachfront Paradise with Private Pool",
+          "price": "800000",
+          "location": "Hawaii, USA"
+        },
+        {
+          "title": "Historic Victorian Charmer",
+          "price": "750000",
+          "location": "San Francisco, USA"
+        },
+        {
+          "title": "Modern Farmhouse Retreat",
+          "price": "425000",
+          "location": "Vermont, USA"
+        }
+      ]
+    },
+    "fr": {
+      "properties": [
+        {
+          "title": "Studio paisible en centre-ville animé",
+          "price": "500000",
+          "location": "Chicago, États-Unis"
+        },
+        {
+          "title": "Paradis en bord de mer avec piscine privée",
+          "price": "800000",
+          "location": "Hawaï, États-Unis"
+        },
+        {
+          "title": "Charme victorien historique",
+          "price": "750000",
+          "location": "San Francisco, États-Unis"
+        },
+        {
+          "title": "Retraite moderne dans une ferme",
+          "price": "425000",
+          "location": "Vermont, États-Unis"
+        }
+      ]
+    },
+    "it": {
+      "properties": [
+        {
+          "title": "Oasi tranquilla in studio nel centro vivace",
+          "price": "500000",
+          "location": "Chicago, Stati Uniti d'America"
+        },
+        {
+          "title": "Paradiso fronte mare con piscina privata",
+          "price": "800000",
+          "location": "Hawaii, Stati Uniti d'America"
+        },
+        {
+          "title": "Fascino vittoriano storico",
+          "price": "750000",
+          "location": "San Francisco, Stati Uniti d'America"
+        },
+        {
+          "title": "Rifugio moderno in fattoria",
+          "price": "425000",
+          "location": "Vermont, Stati Uniti d'America"
+        }
+    
+      ]
+    },
+  "ar": {
+    "properties": [
+      {
+        "title": "استوديو هادئ في وسط المدينة الصاخبة",
+        "price": "500000",
+        "location": "شيكاغو، الولايات المتحدة الأمريكية"
+      },
+      {
+        "title": "جنة شاطئية مع مسبح خاص",
+        "price": "800000",
+        "location": "هاواي، الولايات المتحدة الأمريكية"
+      },
+      {
+        "title": "سحر فيكتوري تاريخي",
+        "price": "750000",
+        "location": "سان فرانسيسكو، الولايات المتحدة الأمريكية"
+      },
+      {
+        "title": "ملاذ مزرعة حديث",
+        "price": "425000",
+        "location": "فيرمونت، الولايات المتحدة الأمريكية"
+      }
+    
+    ]
+  },
+
+  "es": {
+    "properties": [
+      {
+        "title": "Oasis tranquilo en un estudio en el centro de la ciudad",
+        "price": "500000",
+        "location": "Chicago, Estados Unidos de América"
+      },
+      {
+        "title": "Paraíso frente al mar con piscina privada",
+        "price": "800000",
+        "location": "Hawái, Estados Unidos de América"
+      },
+      {
+        "title": "Encanto victoriano histórico",
+        "price": "750000",
+        "location": "San Francisco, Estados Unidos de América"
+      },
+      {
+        "title": "Retiro moderno en una granja",
+        "price": "425000",
+        "location": "Vermont, Estados Unidos de América"
+      }
+
+    ]
+  }
+  
+  
+}
+  
+  

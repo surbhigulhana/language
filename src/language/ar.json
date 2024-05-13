@@ -1,0 +1,31 @@
+{
+    "mainHeading": "البحث عن العقارات أصبح سهلًا للغاية",
+    "description": "الألم نفسه مهم، سيتم متابعة الاديبسينغ إليت.",
+    "ButtonTexth": "الرئيسية",
+    "ButtonTextp": "العقارات",
+    "ButtonTextc": "اتصل",
+    "lanuageb": "اللغة",
+    "currenb": "العملة",
+    "secHeading": "أعلى العقارات المقدمة",
+    "secDesc": "علم رحلتك العقارية مع HJ للعقارات. لأكثر من عقد من الزمان، خدمنا بتفانٍ لتحقيق أحلامك العقارية في دبي. دعونا نجد المساحة المثالية لك معًا",
+    "tustHeading": "يمكنك الوثوق بنا",
+    "happy": "عملاء سعداء",
+    "stock": "العقارات في المخزون",
+    "city": "المدينة المسجلة",
+    "dealer": "فروع الوكلاء",
+    "right": "كل الحقوق محفوظة 2024",
+
+    "footer": {
+        "contact": {
+            "heading": "اتصل بنا",
+            "address": "123 شارع رئيسي، المدينة، البلد",
+            "phone": "+123-456-7890",
+            "email": "info@example.com"
+        },
+        "social": {
+            "facebook": "https://www.facebook.com/example",
+            "twitter": "https://twitter.com/example",
+            "instagram": "https://www.instagram.com/example"
+        }
+    }
+}

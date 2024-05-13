@@ -1,0 +1,32 @@
+{
+    "mainHeading": "La búsqueda de propiedades se ha vuelto tan simple",
+    "description": "Es muy importante que el cliente preste atención al proceso de adquisición. Los elegidos dejan la dulzura, por laboriosa que sea. ¡Quiero tomarme un respiro!",
+    "ButtonTexth": "Casa",
+    "ButtonTextp": "Apartamento",
+    "ButtonTextc": "Contáctenos",
+    "lanuageb":"Idioma",
+    "currenb":"Moneda",
+    "secHeading":"Propiedades más solicitadas",
+    "secDesc":"Marca tu camino inmobiliario con HJ Real Estates. Durante más de una década, nos hemos dedicado a hacer realidad tus sueños inmobiliarios en Dubái. Encontraremos juntos tu espacio ideal",
+    "tustHeading":"Puedes confiar en nosotros",
+    "happy":"CLIENTES SATISFECHOS",
+    "stock":"Propiedades en stock",
+    "city":"Ciudad registrada",
+    "dealer":"SEDES DE CONCESIONARIOS",
+    "right":"Todos los derechos reservados 2024",
+  
+    "footer": {
+      "contact": {
+        "heading": "Contáctenos",
+        "address": "Calle Roma 123, Milán, Italia",
+        "phone": "+39 02 1234 5678",
+        "email": "info@ejemplo.com"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/",
+        "twitter": "https://twitter.com/?lang=es",
+        "instagram": "https://www.instagram.com/"
+      }
+    }
+  }
+  

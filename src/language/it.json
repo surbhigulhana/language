@@ -1,0 +1,32 @@
+{
+    "mainHeading": "La ricerca di proprietà è diventata così semplice",
+    "description": "È molto importante che il cliente presti attenzione al processo di acquisizione. Gli eletti lasciano la dolcezza, per quanto laboriosa possa essere. Voglio prendermi un po' di respiro!",
+    "ButtonTexth": "Casa",
+    "ButtonTextp": "Appartamento",
+    "ButtonTextc": "Contattaci",
+    "lanuageb":"Lingua",
+    "currenb":"Valuta",
+    "secHeading":"Proprietà più richieste",
+    "secDesc":"Segna il tuo percorso immobiliare con HJ Real Estates. Da oltre un decennio ci impegniamo a realizzare i tuoi sogni immobiliari a Dubai. Troviamo insieme il tuo spazio ideale",
+    "tustHeading":"Puoi fidarti di noi",
+    "happy":"CLIENTI SODDISFATTI",
+    "stock":"Proprietà in magazzino",
+    "city":"Città registrata",
+    "dealer":"SEDI DEI CONcessionari",
+    "right":"Tutti i diritti riservati 2024",
+  
+    "footer": {
+      "contact": {
+        "heading": "Contattaci",
+        "address": "Via Roma 123, Milano, Italia",
+        "phone": "+39 02 1234 5678",
+        "email": "info@esempio.com"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/",
+        "twitter": "https://twitter.com/?lang=en",
+        "instagram": "https://www.instagram.com/"
+      }
+    }
+  }
+  

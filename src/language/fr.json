@@ -1,0 +1,32 @@
+ {
+  "mainHeading": "La recherche de propriétés est devenue si simple",
+  "description": "Il est très important que le client fasse attention au processus d'adipiscissement.Les élus quittent la douceur, aussi laborieuse que cela puisse êtreJe veux prendre un peu de recul !.",
+  "ButtonTexth": "Maison",
+  "ButtonTextp": "Propriété",
+  "ButtonTextc": "Contact",
+  "lanuageb":"Langue",
+  "currenb":"Devise",
+  "secHeading":"Propriété la plus soumise",
+  "secDesc":"Marquez votre parcours immobilier avec HJ Real Estates. Depuis plus d’une décennie, nous nous efforçons de réaliser vos rêves immobiliers à Dubaï. Trouvons ensemble votre espace idéal",
+  "tustHeading":"Vous pouvez nous faire confiance",
+  "happy":"CLIENT SATISFAITS",
+  "stock":"Propriétés en stock",
+  "city":"Ville enregistrée",
+  "dealer":"SUCCURSALES DE CONCESSIONNAIRES", 
+  "right":" Tous droits réservés 2024",
+ 
+
+  "footer": {
+    "contact": {
+      "heading": "Contactez-nous",
+      "address": "123 rue principale, Ville, Pays",
+      "phone": "+123-456-7890",
+      "email": "info@example.com"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/example",
+      "twitter": "https://twitter.com/example",
+      "instagram": "https://www.instagram.com/example"
+    }
+  }
+}

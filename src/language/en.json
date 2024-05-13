@@ -1,0 +1,32 @@
+ {
+    "mainHeading": "property Searching Just Got So Easy",
+    "description": " The pain itself is important, the adipiscing elit will be followed.",
+    "ButtonTexth": "Home",
+    "ButtonTextp": "Property",
+    "ButtonTextc": "Contact",
+    "lanuageb":"Language",
+    "currenb":"Currency",
+    "secHeading":"Top submitted property",
+    "secDesc":"Mark your real estate journey with HJ Real Estates. For more than a decade, we’ve served dedicatedly making your property dreams come true in Dubai. Let’s find your perfect space together",
+    "tustHeading":"You can trust Us",
+    "happy":"HAPPY CUSTOMER",
+    "stock":"Properties in stock",
+    "city":"City registered",
+    "dealer":"DEALER BRANCHES",
+    "right":" All rights reserved 2024",
+
+    "footer": {
+      "contact": {
+        "heading": "Contact Us",
+        "address": "123 Main St, City, Country",
+        "phone": "+123-456-7890",
+        "email": "info@example.com"
+      },
+      "social": {
+        "facebook": "https://www.facebook.com/example",
+        "twitter": "https://twitter.com/example",
+        "instagram": "https://www.instagram.com/example"
+      }
+    }
+
+  }
